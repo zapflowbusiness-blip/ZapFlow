@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage (root) -->
+  <url>
+    <loc>https://zapflowbusiness-blip.github.io/ZapFlow/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- How It Works section -->
+  <url>
+    <loc>https://zapflowbusiness-blip.github.io/ZapFlow/#how</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Agents / Pricing section -->
+  <url>
+    <loc>https://zapflowbusiness-blip.github.io/ZapFlow/#agents</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact / Get Started section -->
+  <url>
+    <loc>https://zapflowbusiness-blip.github.io/ZapFlow/#contact</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
